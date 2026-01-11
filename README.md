@@ -73,3 +73,9 @@ Available: https://ieeexplore.ieee.org/document/11113264
 *Privacy Preserving Federated Learning for Energy Disaggregation of Smart Homes*,  
 IET Cyber-Physical Systems: Theory & Applications, 2024.  
 Available: https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cps2.70013
+
+[16] A. Dritsas and M. Trigka,  
+*Federated Learning for IoT: A Survey of Techniques, Challenges, and Applications*,  
+Future Internet, vol. 14, no. 12, 2022.  
+Available: https://www.mdpi.com/1999-5903/14/12/384
+
